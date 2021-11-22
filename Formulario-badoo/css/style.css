@@ -1,0 +1,17 @@
+body{
+    background-image: url(/img/bg.jpeg);
+}
+
+.bg{
+    background-image: url(/img/3.jpeg);
+    background-position: center center;
+    background-size: 100% 145%;
+}
+.warninigs{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #b06ab3;
+    padding-top: 20px;
+}
+
